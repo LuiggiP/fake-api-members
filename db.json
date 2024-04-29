@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "Pedro Henrique",
+      "email": "pedroHenrique@gmail.com",
+      "photo": "https://randomuser.me/api/portraits/men/60.jpg",
+      "goal": "I want to lose weight",
+      "subscription": "free-plan"
+    },
+    {
+      "id": 2,
+      "name": "Maria Clara",
+      "email": "mariaClara@gmail.com",
+      "photo": "https://randomuser.me/api/portraits/women/56.jpg",
+      "goal": "I want to keep my body in shape",
+      "subscription": "monthly-plan"
+    },
+    {
+      "id": 3,
+      "name": "João Pedro",
+      "email": "joaoPedro@gmail.com",
+      "photo": "https://randomuser.me/api/portraits/men/59.jpg",
+      "goal": "I need to eat more healthy",
+      "subscription": "anual-plan"
+    }
+  ]
+}
